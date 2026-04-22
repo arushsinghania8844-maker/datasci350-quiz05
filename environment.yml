@@ -1,0 +1,4 @@
+name: quiz05-env
+channels:
+  - defaults
+prefix: /Users/arushsinghania/opt/anaconda3/envs/quiz05-env
